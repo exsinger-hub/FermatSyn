@@ -1,0 +1,14 @@
+visdom
+dominate
+scikit-image
+h5py
+scipy
+peft
+ml_collections
+mamba-ssm
+hydra-core
+tqdm==4.65.2
+imageio
+pysodmetrics
+bitsandbytes
+opencv-python
