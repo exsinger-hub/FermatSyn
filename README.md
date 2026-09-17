@@ -2,6 +2,10 @@
 
 ![FermatSyn overview](assets/fermatSyn-overview.png)
 
+**FermatSyn** is a SAM2-enhanced bidirectional Mamba framework for multi-modal medical image synthesis. It combines anatomical priors, high-frequency detail reconstruction, and isotropic Fermat spiral scanning to improve structural fidelity and cross-modal consistency.
+
+📄 **Paper:** [FermatSyn on arXiv](https://arxiv.org/abs/2505.07687) · 🧪 **MICCAI 2026**
+
 Official code release for the MICCAI version of **FermatSyn: SAM2-Enhanced Bidirectional Mamba with Isotropic Spiral Scanning for Multi-Modal Medical Image Synthesis**.
 
 FermatSyn is a paired medical-image translation framework combining a frozen SAM2 visual prior, a high-resolution detail branch, and a bidirectional Mamba sequence model whose feature serialization follows a continuity-constrained Fermat spiral.
