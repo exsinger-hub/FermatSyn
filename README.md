@@ -1,5 +1,7 @@
 # FermatSyn
 
+![FermatSyn overview](assets/fermatSyn-overview.png)
+
 Official code release for the MICCAI version of **FermatSyn: SAM2-Enhanced Bidirectional Mamba with Isotropic Spiral Scanning for Multi-Modal Medical Image Synthesis**.
 
 FermatSyn is a paired medical-image translation framework combining a frozen SAM2 visual prior, a high-resolution detail branch, and a bidirectional Mamba sequence model whose feature serialization follows a continuity-constrained Fermat spiral.
